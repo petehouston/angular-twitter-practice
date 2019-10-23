@@ -21,3 +21,7 @@ npm run server
 ```
 $ ng serve
 ```
+
+## Screenshot
+
+![](filter_pipe.gif)
