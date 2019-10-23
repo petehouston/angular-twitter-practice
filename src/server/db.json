@@ -1,0 +1,55 @@
+{
+  "getTweets": [
+    {
+      "_id": 1, "username": "yu_angela", "message": "Have you been waiting for the iOS 13 course to start learning about SwiftUI and the latest goodies that dropped this year? Wait no further! Check it out here:"
+    },
+    {
+      "_id": 2, "username": "GalenStocking", "message": "Lots of great research was presented at APSA this year, including research on political ads, socialization and survey research. My colleagues and I summarize a few pieces here"
+    },
+    {
+      "_id": 3, "username": "sophiebits", "message": "oh yeah, you think you’re good at git? name ONE git command without screwing it up"
+    },
+    {
+      "_id": 4, "username": "scottstoll2017", "message": "Why don't we stop trying to reinvent the wheel every 7 days and start using the excellent #Flutter State Management solutions we already have?\n\nI just saw something that Linux users would call YASMA...\n\nYet another State Management approach"
+    },
+    {
+      "_id": 5, "username": "LVCVA", "message": "Largest convention floors, higher attendance numbers and unbeatable service are just a few of the things that make Vegas unstoppable."
+    },
+    {
+      "_id": 6, "username": "gruber", "message": "This kid Soto is having a good game."
+    },
+    {
+      "_id": 7, "username": "lifehacker", "message": "Verizon customers can get a free year of Disney+ http://lifehac.kr/jluE0x6"
+    },
+    {
+      "_id": 8, "username": "thenextweb", "message": "It doesn’t matter ‘who’ hacked your business"
+    },
+    {
+      "_id": 9, "username": "mashable", "message": "This device can turn any surface into a keyboard\n"
+    },
+    {
+      "_id": 10, "username": "WIRED", "message": "It was an inside job. \n\nBy \n@jeremywins\n with \n@collectcartoons"
+    },
+    {
+      "_id": 11, "username": "anildash", "message": "This is infinitely funnier if you know Ian and his work.\nQuote Tweet\n"
+    },
+    {
+      "_id": 12, "username": "WSJ", "message": "Have you seen the Tim Robinson sketch about doughy men who tug their T-shirts over their bellies? Here's why it's become a phenomenon."
+    },
+    {
+      "_id": 13, "username": "NYCTSubway", "message": "Northbound 6 trains are delayed because a disruptive person tried to light his hat on fire at 51 St."
+    },
+    {
+      "_id": 14, "username": "Aquent", "message": "If you’re a UX designer, you’re in a good place. With a median salary of $93,000 in 2018 and a projected growth rate of 22% over the next ten years, UX remains a fantastic career choice.  https://bit.ly/34Xt02c"
+    },
+    {
+      "_id": 15, "username": "iPhoneHackx", "message": "Adobe Intends to Launch Illustrator for iPad in 2020, 'All-in' on Photoshop for iPad https://buff.ly/2PeGmBB #iPad #Adobe"
+    },
+    {
+      "_id": 16, "username": "GeekMomBlog", "message": "GeekDad Daily Deal: The Premium 2020 Learn to Code Certification Bundle"
+    },
+    {
+      "_id": 17, "username": "Brent_m_Clark", "message": "I am working on a talk about state management in React and could really use a handful of people to answer some research questions for me.\n\nDM me if you're interested!\n\n #DevDiscuss"
+    }
+  ]
+}
